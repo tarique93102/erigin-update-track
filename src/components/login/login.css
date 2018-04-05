@@ -1,0 +1,60 @@
+input.login-input {
+    width: 100%;
+    height: 36px;
+    font-size: 19px;
+    font-family: Arial;
+    border: none;
+    border-bottom: 3px solid white;
+    padding-left: 17px;
+    margin-bottom: 16px;
+    background: transparent;
+    outline: none;
+}
+
+input.login-input::placeholder {
+    color: white;
+    opacity: 0.7;
+    font-size: 25px;
+    font-family: Bebas-Neue;
+}
+
+.login-main {
+    background: url('../../assets/images/login-back.png') no-repeat center center fixed;
+    background-size: cover!important;
+    min-height: 100vh;
+}
+
+img.main-logo {
+    display: block;
+    margin: 0 auto;
+    margin-top: 23%;
+    width: 36%;
+    margin-bottom: 34%;
+}
+
+.btn-group {
+    text-align: center;
+    margin-top: 8%;
+}
+
+button.login-btn {
+    width: 40%;
+    margin-left: 17px;
+    height: 40px;
+    border-radius: 22px;
+    background: transparent;
+    color: white;
+    border: 3px solid white;
+    font-family: Bebas-Neue;
+    font-size: 24px;
+    outline: none;
+}
+
+p.bottom-text {
+    color: white;
+    text-align: center;
+    font-family: Bebas-Neue;
+    margin-left: 14px;
+    font-size: 15px;
+    margin-top: 29px;
+}

@@ -1,0 +1,59 @@
+.schedule-component-main {
+    background: #f47580;
+    height: 100vh;
+    /* height: -webkit-fill-available; */
+}
+
+p.mainTitle {
+    text-align: center;
+    font-family: Bebas-Neue;
+    color: white;
+    font-size: 28px;
+    padding-top: 26px;
+}
+
+img.schedule-calendar {
+    position: absolute;
+    right: 27px;
+    width: 29px;
+    top: 27px;
+}
+
+.schedule-client-time {
+    position: absolute;
+    /* float: right; */
+    right: 19px;
+    top: -25px;
+    font-family: Bebas-Neue;
+    color: white;
+    font-size: 29px;
+}
+
+.schedule-client-name {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-family: Bebas-Neue;
+    color: white;
+    font-size: 31px;
+    margin-left: 18px;
+}
+
+p.schedule-client-data {
+    font-size: 26px;
+    font-family: Bebas-Neue;
+    color: white;
+    margin: 0;
+    margin-left: 20px;
+}
+
+.schedule-service-section {
+    position: relative;
+}
+
+.status-box-employee {
+    width: 7px;
+    height: 7px;
+    position: absolute;
+    left: 11px;
+    top: 2px;
+}

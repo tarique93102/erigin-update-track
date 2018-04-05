@@ -1,0 +1,87 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@font-face {
+  font-family: Bebas-Neue;
+  src: url(./assets/fonts/bebasNeue.otf);
+}
+
+@font-face {
+  font-family: Bebas-Light;
+  src: url(./assets/fonts/bebasNeueLight.otf);
+}
+
+.toolbar-common {
+  height: 60px;
+  width: 100%;
+  background: #EC9D7E;
+  position: fixed;
+  top: 0;
+  box-shadow: 0 4px 6px grey;
+  z-index: 100;
+}
+
+p.toolbar-title {
+  text-align: center;
+  font-size: 32px;
+  margin-top: 17px;
+  font-family: Bebas-Neue;
+  color: white;
+}
+
+img.menu-button {
+  position: absolute;
+  width: 25px;
+  top: 17px;
+  left: 19px;
+}
+
+img.back-button {
+  position: absolute;
+  width: 25px;
+  top: 15px;
+  left: 10px;
+}
+
+img.menu-back-button {
+  position: absolute;
+  width: 25px;
+  top: 17px;
+  left: 44px;
+}
+
+.sidenav-main {
+  width: 100%;
+  height: 100vh;
+  background: #F47580;
+}
+
+html, body {
+  height: 100%;
+}

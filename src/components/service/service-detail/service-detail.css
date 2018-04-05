@@ -1,0 +1,93 @@
+.service-detail-main-div {
+    background: #EC9D7E;
+    min-height: 100vh;
+}
+
+.detail-page {
+    position: relative;
+}
+
+span.client-main-time {
+    position: absolute;
+    /* float: right; */
+    right: 19px;
+    top: 0px;
+    font-family: Bebas-Neue;
+    color: white;
+    font-size: 26px;
+}
+
+.client-main-name {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-family: Bebas-Neue;
+    color: white;
+    font-size: 30px;
+    margin-left: 18px;
+}
+
+p.general-data-client {
+    font-size: 26px;
+    font-family: Bebas-Neue;
+    color: white;
+    margin: 0;
+    margin-left: 20px;
+}
+
+img.service-icons {
+    width: 82px;
+    /* text-align: center; */
+    display: block;
+    margin: 0 auto;
+}
+
+.action-buttons.container {
+    margin-top: 49px;
+}
+
+p.service-icon-label {
+    text-align: center;
+    font-family: Bebas-Neue;
+    color: white;
+    margin-top: 6px;
+}
+
+button.service-status-btn {
+    /* text-align:  center; */
+    display:  block;
+    margin:  0 auto;
+    width: 50%;
+    height:  39px;
+    background:  transparent;
+    border: 2px solid white;
+    color:  white;
+    border-radius: 25px;
+    margin-top: 13px;
+    font-family:  Bebas-Neue;
+    font-size:  19px;
+}
+
+.status-box {
+    width: 7px;
+    height: 7px;
+    position: absolute;
+    left: 14px;
+}
+
+.notification {
+    border-radius: 100%;
+    background: red;
+    width: 4%;
+    font-size: 12px;
+    position: absolute;
+    top: 36px;
+    right: 38px;
+    color: white;
+}
+
+img.stop-service-icon {
+    width: 82px;
+    /* text-align: center; */
+    display: block;
+    margin: 0 auto;
+}

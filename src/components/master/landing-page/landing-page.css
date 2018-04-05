@@ -1,0 +1,125 @@
+.master-home-main-div {
+    background: #f9b296;
+    height: 400px;
+    box-shadow: 0 2px 14px 0px grey;
+}
+
+.schedule-board {
+    height: 55px;
+    background: #f47580;
+    position: relative;
+}
+
+.customer-board {
+    height: 55px;
+    background: #be6787;
+}
+
+.employee-board {
+    height: 55px;
+    background: #6c5c79;
+}
+
+.board-title {
+    margin: 0;
+}
+
+p.master-graph-title {
+    text-align: center;
+    font-family: Bebas-Neue;
+    color: white;
+    font-size: 30px;
+    padding-top: 18px;
+}
+
+svg.recharts-surface {
+    margin-left: -11px;
+}
+
+tspan {
+    font-size: 12px;
+}
+
+button.map-toggle {
+    background: transparent;
+    /* border: 2px solid white; */
+    border: none;
+    border-radius: 22px;
+    font-size: 18px;
+    color: white;
+    font-family: Bebas-Neue;
+    padding: 5px 19px;
+    padding-top: 7px;
+    margin-right: 9px;
+    margin-top: 20px;
+    outline: none;
+}
+
+.map-toggle-group {
+    text-align: center;
+}
+
+p.board-title {
+    font-family: Bebas-Neue;
+    color: white;
+    /* text-align: center; */
+    font-size: 20px;
+    padding-top: 18px;
+    padding-left: 20px;
+}
+
+img.master-landing-calendar {
+    width: 24px;
+    position: absolute;
+    right: 22px;
+    margin-top: -25px;
+}
+
+.master-schedule-ul {
+    margin-top: 13px;
+}
+
+.master-schedule-li {
+    width: 100%;
+    height: 31px;
+    background: #de5a65;
+    margin-bottom: 8px;
+    position: relative;
+}
+
+p.schedule-master-name {
+    position: absolute;
+    font-size: 20px;
+    margin: 0;
+    left: 28px;
+    font-family: Bebas-Neue;
+    color: white;
+    top: 7px;
+}
+
+p.schedule-master-time {
+    font-size: 20px;
+    margin: 0;
+    /* left: 28px; */
+    font-family: Bebas-Neue;
+    color: white;
+    top: 7px;
+    right: 0;
+    position: absolute;
+    right: 40px;
+}
+
+img.forward-arrow {
+    position: absolute;
+    height: 21px;
+    right: 10px;
+    top: 5px;
+}
+
+.status-box-master {
+    width: 7px;
+    height: 7px;
+    position: absolute;
+    left: 14px;
+    top: 11px;
+}

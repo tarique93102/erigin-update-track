@@ -1,0 +1,67 @@
+[
+    {
+        "_id": "0001",
+        "name": "Ravi Kishan",
+        "serviceTime": "9:30 AM",
+        "serviceType": "B2C",
+        "servedBy": "Rajan",
+        "address1": "23 Cross, 5th Main Road, 6th Stage",
+        "address2": "KSRTC Bus Stand, Jayanagar",
+        "city": "Bangalore - 500005",
+        "serviceStatus": "started",
+        "contact": 9831559588,
+        "shortLocale": "JAYANAGAR"
+    },
+    {
+        "_id": "0002",
+        "name": "Gourav Mohanty",
+        "serviceTime": "11:15 AM",
+        "serviceType": "B2C",
+        "servedBy": "Ekhlaque",
+        "address1": "24 Cross, 5th Main Road",
+        "address2": "Grant Road, JP Nagar",
+        "city": "Bangalore - 500016",
+        "serviceStatus": "completed",
+        "contact": 9873289299,
+        "shortLocale": "JP NAGAR"
+    },
+    {
+        "_id": "0003",
+        "name": "Janpath Hotel",
+        "serviceTime": "3:00 PM",
+        "serviceType": "B2B",
+        "servedBy": "Assad",
+        "address1": "24 Cross, 6th Main Road",
+        "address2": "Grant Road, LalBagh",
+        "city": "Bangalore - 500026",
+        "serviceStatus": "completed",
+        "contact": 9873289300,
+        "shortLocale": "LALBAGH"
+    },
+    {
+        "_id": "0004",
+        "name": "Espiritto Hotel",
+        "serviceTime": "5:00 PM",
+        "serviceType": "B2B",
+        "servedBy": "Karim",
+        "address1": "25 Cross, 5th Main Road",
+        "address2": "MG Road",
+        "city": "Bangalore - 500055",
+        "serviceStatus": "ongoing",
+        "contact": 9873289301,
+        "shortLocale": "MG ROAD"
+    },
+    {
+        "_id": "0005",
+        "name": "Ashmita Banerjee",
+        "serviceTime": "9:00 AM",
+        "serviceType": "B2C",
+        "servedBy": "Ekhlaque",
+        "address1": "15th Cross, Main Trunk",
+        "address2": "New Road, HSR Layout",
+        "city": "Bangalore - 500030",
+        "serviceStatus": "completed",
+        "contact": 9873289400,
+        "shortLocale": "HSR LAYOUT"
+    }
+]

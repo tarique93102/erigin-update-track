@@ -1,0 +1,121 @@
+h3.tasks-home-title {
+    font-family: Bebas-Neue;
+    color: white;
+    font-size: 28px;
+    padding-top: 34px;
+}
+
+.tasks-title-div {
+    width: 100%;
+    background: #F9B296;
+    /* height: 450px; */
+    text-align: center;
+    position: relative;
+}
+
+img.service-calendar {
+    position: absolute;
+    width: 23px;
+    top: 34px;
+    right: 22px;
+}
+
+.current {
+    background: #F9B296;
+}
+
+.second {
+    background: #F47580;
+}
+
+.third {
+    background: #BE6787;
+}
+
+.fourth {
+    background: #6C5C79;
+}
+
+.fifth {
+    background: #355C7D;
+}
+
+.date-tasks {
+    width: 100%;
+    /* box-shadow: 0 3px 22px -4px; */
+}
+
+p.date-tag {
+    margin: 0;
+    color: white;
+    font-family: Bebas-Neue;
+    font-size: 21px;
+    padding-top: 21px;
+    padding-left: 26px;
+}
+
+.tasks-list {
+    height: 500px;
+    width: 100%;
+}
+
+p.date-tag.current-date {
+    float: left;
+    padding-top: 0px;
+}
+
+.client-data-ul {
+    margin-top: 84px;
+}
+
+.client-data-li {
+    width: 100%;
+    height: 47px;
+    /* background: #EC9D7E; */
+    margin-top: 28px;
+}
+
+p.client-name {
+    color: white;
+    position: absolute;
+    left: 29px;
+    margin: 0;
+    font-family: Bebas-Neue;
+    font-size: 25px;
+}
+
+p.service-time {
+    float: right;
+    color: white;
+    font-size: 25px;
+    font-family: Bebas-Neue;
+    margin-top: 12px;
+    margin-right: 16px;
+}
+
+p.client-locale {
+    position: absolute;
+    left: 28px;
+    margin-top: 29px;
+    font-family: Bebas-Neue;
+    color: white;
+    font-size: 18px;
+}
+
+.status-box {
+    width: 7px;
+    height: 7px;
+    position: absolute;
+    left: 14px;
+}
+
+.notification {
+    border-radius: 100%;
+    background: red;
+    width: 4%;
+    font-size: 12px;
+    position: absolute;
+    top: 36px;
+    right: 38px;
+    color: white;
+}
